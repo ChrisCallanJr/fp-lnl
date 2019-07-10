@@ -1,4 +1,4 @@
-# mdx-deck basic template
+# FP lunch and learn
 
 This was generated with [mdx-deck][]'s `npm init deck` command.
 
